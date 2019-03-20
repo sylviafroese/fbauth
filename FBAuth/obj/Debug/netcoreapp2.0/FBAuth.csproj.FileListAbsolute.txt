@@ -1,0 +1,12 @@
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\bin\Debug\netcoreapp2.0\FBAuth.deps.json
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\bin\Debug\netcoreapp2.0\FBAuth.runtimeconfig.json
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\bin\Debug\netcoreapp2.0\FBAuth.runtimeconfig.dev.json
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\bin\Debug\netcoreapp2.0\FBAuth.dll
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\bin\Debug\netcoreapp2.0\FBAuth.pdb
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\obj\Debug\netcoreapp2.0\FBAuth.csprojAssemblyReference.cache
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\obj\Debug\netcoreapp2.0\FBAuth.csproj.CoreCompileInputs.cache
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\obj\Debug\netcoreapp2.0\FBAuth.AssemblyInfoInputs.cache
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\obj\Debug\netcoreapp2.0\FBAuth.AssemblyInfo.cs
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\obj\Debug\netcoreapp2.0\FBAuth.dll
+C:\Users\slfroese\source\repos\FBAuth\FBAuth\obj\Debug\netcoreapp2.0\FBAuth.pdb
